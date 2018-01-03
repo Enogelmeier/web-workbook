@@ -87,6 +87,16 @@ nav.navbar{
 	font-family: Georgia;
 }
 
+button {
+    background-color: white; /* Green */
+    border: 1px, solid, black;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
 #video{
   width: 100%;
   display: flex;
