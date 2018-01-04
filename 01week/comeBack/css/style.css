@@ -1,0 +1,30 @@
+body {
+  background-color: blue;
+}
+
+header {
+  text-align: center;
+  color: white;
+}
+
+div{
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  font-size: 25px;
+}
+
+#One{
+  background-color: red;
+  float: left;
+}
+
+#Two{
+  background-color: yellow;
+  float: left;
+}
+
+#Three{
+  background-color: green;
+  float: right;
+}
